@@ -1,0 +1,5 @@
+[BOT]
+API_TOKEN = "YOUR BOT API TOKEN HERE"
+
+[DB]
+NAME = "quiz_bot.db"
